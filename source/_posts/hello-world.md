@@ -2,7 +2,9 @@
 layout: post
 title: "Hello, world!"
 date: 2015-05-10 16:47
-categories: update
+categories:
+  - Updates
+  - Random
 ---
 
 Hello there. As usual, every time I open a new blog, I'd initialize with a "Hello, world!" post.
