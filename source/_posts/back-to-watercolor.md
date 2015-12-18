@@ -5,6 +5,10 @@ date: 2015-12-14 16:35
 categories:
   - Exploring Art
   - Watercolor Painting
+tags:
+  - watercolor
+  - painting
+  - art
 ---
 
 In mid 2012 I had built a really strong interest in watercolor paining, mainly triggered by Jack Reid's excellent book [Watercolor Basics: Let's Get Started](http://www.amazon.com/Watercolor-Basics-Lets-Get-Started/dp/0891348670). I was really impressed by his style of painting, that really brings landscape to life. At that time I was one of those poor students, and all I can afford was a bunch of synthetic brushes and student grade paint (W&N Cotman). Luckily, I didn't skimp on paper (cold press Arches and Fabriano, 140 lb / 300 lb) and the result was quite satisfying. I painted for several months, then stopped with the increasing load of course work at the time.

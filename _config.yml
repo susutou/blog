@@ -80,4 +80,5 @@ deploy:
 
 # Misc
 disqus_shortname: susutou
-
+sitemap:
+  path: sitemap.xml
