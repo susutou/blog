@@ -1,0 +1,18 @@
+language: node_js
+
+node_js:
+  - "node"
+
+before_script:
+  - git config --global user.name "Push Bot"
+  - git config --global user.email pushbot@susutou.com
+  - sed -i "s/__GITHUB_TOKEN__/${github_token}/" _config.yml
+
+script:
+  - hexo clean
+  - hexo generate
+  - hexo deploy
+
+branches:
+  only:
+    - master
