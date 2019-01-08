@@ -12,8 +12,6 @@ but I am happy to say that I am alive and well!
 
 To rediscover balance in my life I am getting back into drawing and watercolor painting.
 My current project is to bookbind a sketchbook with dedicated watercolor paper so I can
-enjoy sketching with watercolor. I'll post my process as I move on with the project
-(although there're enough instructions online I'd still like to post a full process with minimal tools,
-which isn't available to my knowledge).
+enjoy sketching with watercolor.
 
 It's great to be back.
